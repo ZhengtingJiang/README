@@ -1,4 +1,3 @@
-- 👋 Hi, this is Zhengting Jiang, surname is Jiang.
-- Vrije University Amsterdam.
-- 🌱 I’m currently learning bioinformatics.
-- 📫 tohsaka60@outlook.com is my email, if any question please contact me.
+- Hi there.
+- I do not know what to say
+- Say hello!
